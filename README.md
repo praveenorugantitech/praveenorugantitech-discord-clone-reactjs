@@ -1,13 +1,12 @@
 # Discord Clone developed using React JS and Firebase
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-discord-clone/src/images/screenshot.PNG "Discord Clone")
+<div>
+<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
+<img align="right" width="100%"  src="./src/images/screenshot1.PNG" />
+<img align="right" width="100%"  src="./src/images/screenshot2.PNG" />
+<img align="right" width="100%"  src="./src/images/screenshot3.PNG" />
+<img align="right" width="100%"  src="./src/images/screenshot4.PNG" />
+</div>
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-discord-clone/src/images/screenshot1.PNG "Discord Clone")
-
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-discord-clone/src/images/screenshot2.PNG "Discord Clone")
-
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-discord-clone/src/images/screenshot3.PNG "Discord Clone")
-
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-discord-clone/src/images/screenshot4.PNG "Discord Clone")
 
 [Live Demo](https://praveenoruganti-discord-clone.firebaseapp.com/)
