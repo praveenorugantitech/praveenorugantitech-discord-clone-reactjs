@@ -6,7 +6,7 @@ import "./App.css";
 import { useDispatch, useSelector } from "react-redux";
 import { login, logout, selectUser } from "./features/userSlice";
 import Login from "./Login";
-import { auth } from "./firebase";
+import { auth } from "./config/firebase";
 
 function App() {
   const dispatch = useDispatch();

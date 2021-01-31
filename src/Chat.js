@@ -11,7 +11,7 @@ import "./Chat.css";
 import { useSelector } from "react-redux";
 import { selectChannelId, selectChannelName } from "./features/appSlice";
 import { selectUser } from "./features/userSlice";
-import db from "./firebase";
+import db from "./config/firebase";
 import firebase from "firebase";
 
 function Chat() {

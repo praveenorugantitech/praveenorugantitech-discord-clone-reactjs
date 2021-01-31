@@ -1,6 +1,6 @@
 import { Button } from "@material-ui/core";
 import React from "react";
-import { auth, provider } from "./firebase";
+import { auth, provider } from "./config/firebase";
 
 import "./Login.css";
 
